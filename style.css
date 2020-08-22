@@ -1,0 +1,14 @@
+#block {
+  text-align: center;
+}
+
+#myCanvas {
+  width: 1336px;
+  height: 596px;
+  background-color: #3c2c3e;
+  margin: 0;
+}
+
+body {
+  background-color: #3c2c3e;
+}
